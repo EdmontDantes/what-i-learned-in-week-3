@@ -2,7 +2,6 @@
 
 * ### Boolean operators
 * ### list of inbuilt function
-* ### import functions from other files
 * ### Conditionals
 
 
